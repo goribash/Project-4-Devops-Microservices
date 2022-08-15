@@ -1,4 +1,4 @@
-<[![CircleCI](https://dl.circleci.com/status-badge/img/gh/goribash/Project-4-Devops-Microservices/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/goribash/Project-4-Devops-Microservices/tree/main)>
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/goribash/Project-4-Devops-Microservices/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/goribash/Project-4-Devops-Microservices/tree/main)
 
 ## Project Overview
 
