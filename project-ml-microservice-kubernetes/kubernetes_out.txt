@@ -1,0 +1,6 @@
+NAME                                 READY   STATUS             RESTARTS   AGE
+project-ml-microservices             1/1     Running            0          12m
+python-helloworld-5f74464dd5-kz74t   0/1     ImagePullBackOff   0          8m12s
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
